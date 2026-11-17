@@ -18,5 +18,9 @@ npm-debug.log*
 # env files
 .env*
 
+!.env.example
+
 # typescript
 next-env.d.ts
+
+/coverage
